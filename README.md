@@ -1,5 +1,7 @@
 ﻿#WordList
 
+![WordList](https://raw.github.com/DreaminginCodeZH/WordList/master/res/drawable-xxhdpi/ic_launcher.png)
+
 ##Introduction
 
 A simple android application to read and display word lists in a
