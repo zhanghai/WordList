@@ -4,17 +4,17 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ExpandableListView;
 
-public class FullSizeExpandableListView extends ExpandableListView {
+public class WrapContentExpandableListView extends ExpandableListView {
 
-	public FullSizeExpandableListView(Context context) {
+	public WrapContentExpandableListView(Context context) {
 		super(context);
 	}
 
-	public FullSizeExpandableListView(Context context, AttributeSet attrs) {
+	public WrapContentExpandableListView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 	}
 
-	public FullSizeExpandableListView(Context context, AttributeSet attrs,
+	public WrapContentExpandableListView(Context context, AttributeSet attrs,
 			int defStyle) {
 		super(context, attrs, defStyle);
 	}

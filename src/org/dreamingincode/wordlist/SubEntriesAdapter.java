@@ -75,7 +75,7 @@ class SubEntriesAdapter extends BaseExpandableListAdapter {
 	public View getChildView(int groupPosition, int childPosition,
 			boolean isLastChild, View convertView, ViewGroup parent) {
 		if (convertView == null) {
-			ExpandableListView view = new FullSizeExpandableListView(context);
+			ExpandableListView view = new WrapContentExpandableListView(context);
 			view.setId(android.R.id.list);
 			view.setDrawSelectorOnTop(false);
 			view.setGroupIndicator(null);
