@@ -39,7 +39,7 @@ Here is an short example of this format:
     #~Prevalent adj.普遍的
     #~#Prevalence n.普及;盛行
 
-Some word list files I authored can be found in the WordList
+Some word list files I authored can be found in the .`WordList`
 directory.
 
 ##How to use
@@ -55,10 +55,10 @@ much UI design. (The first app? Of course it's HelloAndroid :) )
 Simple though it is, there are also some interesting (at least for
 myself) pieces of code inside this app, namely
 `ExpandableListFragment` and `WrapContentExpandableList`. The first
-one give an implementation of the corresponding class that does not
-exist in android support library; the second one make the list
+one gives an implementation of the corresponding class that does not
+exist in android support library; the second one makes the list
 correctly calculate its size using its own method when `wrap_content`
-is specified (it won't be very efficient though)
+is specified (it won't be very efficient though).
 
 It seems that the android library developers doesn't like the
 `ExpandableListView` very much for performance reasons...
