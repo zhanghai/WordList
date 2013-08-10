@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">单词表</string>
+    <string name="title_activity_main">文件列表</string>
+    <string name="title_activity_wordlist">单词表</string>
+</resources>
