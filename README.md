@@ -1,7 +1,5 @@
 ﻿#WordList
 
----
-
 ##Introduction
 
 A simple android application to read and display word lists in a
